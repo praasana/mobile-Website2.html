@@ -1,0 +1,33 @@
+.bgimg2 {
+	background-image: url('https://mobilesolutions.pt/wp-content/uploads/2016/02/Silver-Blur-Background-Wallpaper.jpg');
+	background-size: cover;
+	height: 120vh;
+}
+.mobilehead {
+	color: white;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 35px;
+	padding: 25px;
+}
+.layoutcard2 {
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 18px;
+}
+.brandsimg {
+	width: 100px;
+	height: 100px;
+}
+.brandshead {
+	color: #5478b0;
+	font-family:'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.brandspara {
+	color: darkgrey;
+	font-family: 'Roboto';
+	font-size: 15px;
+}

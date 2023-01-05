@@ -1,0 +1,33 @@
+.bgimg5 {
+	background-image: url('https://cdn.photoworkout.com/best%20app%20to%20blur%20background%20introductions.jpg?cw=100.0000%25&ch=100.0000%25&scale.option=fill&w=400&h=0');
+	background-size: cover;
+	height: 200vh;
+}
+.headfirst {
+	color: white;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+	padding: 25px;
+}
+.bgcarosuelcard {
+	background-color: white;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 100px;
+	margin-top: 15px;
+}
+.cardcon {
+	padding: 20px;
+}
+.headsecond {
+	color: blue;
+	font-family:'Roboto';
+	font-weight: bold;
+	font-size: 20px;
+}
+.paraline {
+	color: #413fe8;
+	font-family: 'Roboto';
+	font-size: 13px;
+}
